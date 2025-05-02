@@ -4,8 +4,7 @@ Migration reshapes Europe’s epidemiological profile, increasing infectious and
 
 📅 **Published:** February 2025  
 📘 **DOI:** _Coming soon_  
-🔗 **ResearchGate:** [View Full Article](https://www.researchgate.net/publication/391110888_THE_ROLE_OF_MIGRATION_IN_CHANGING_THE_EPIDEMIOLOGICAL_PROFILE_OF_EUROPEAN_COUNTRIES-_CHALLENGES_FOR_THE_HEALTHCARE_SYSTEM)  
-📄 **License:** Creative Commons BY-SA 4.0  
+🔗 **ResearchGate:** [View Full Article](https://www.researchgate.net/publication/391110888_THE_ROLE_OF_MIGRATION_IN_CHANGING_THE_EPIDEMIOLOGICAL_PROFILE_OF_EUROPEAN_COUNTRIES-_CHALLENGES_FOR_THE_HEALTHCARE_SYSTEM)   
 
 ## 👨‍⚕️ Authors  
 - Yaroslav Bondarenko  
